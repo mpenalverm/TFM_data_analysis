@@ -3,4 +3,4 @@ Designed for functional analysis of RNAseq samples collected through a time cour
 regulatory networks involved in the process.
 
 
-![Figura1(6)](https://user-images.githubusercontent.com/56923994/119268053-6e7b0300-bbf1-11eb-9676-0731baef2689.jpg)
+![Figura1(2)](https://user-images.githubusercontent.com/56923994/119347233-87d88980-bc9b-11eb-91fc-093e3bdc8c24.jpg)
