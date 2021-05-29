@@ -21,7 +21,7 @@ library(dplyr)
 library(ggplot2)
 
 #Load counts data:
-deseq.data <- readRDS("rna-seq-star-deseq/deseq2/all.rds")
+deseq.data <- readRDS("rna-seq-star-deseq/deseq2/all.rds") #Result of TFM_data_processing script
 counts <- vst(deseq.data, blind=FALSE) # Normalization using VST (varianceStabilizingTransformation)
 vst.values <- counts@assays@data@listData[[1]] # Access to vst.values
 

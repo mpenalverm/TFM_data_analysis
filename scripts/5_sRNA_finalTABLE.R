@@ -9,15 +9,15 @@
 # Merge all sRNA info into a final table:
 # ********************************************************************************************************************************
 #Load data about significant targets prediction (p-value <= 0.005) according to TargetRNA2 and IntaRNA prediction tools
-data.srna <- read.csv("data/sRNAs/Inta_targetprediction_pValue_005.csv", sep="\t")
+data.srna <- read.csv("path/to/supplementary_material/Inta_targetprediction_pValue_005.csv", sep="\t")
 
 #Load information log2FC differential expression analysis in proteomics and transcriptomics: 
 #Proteomics:
-protein <- read.csv("data/proteomics/DEPs.csv", sep="\t")
+protein <- read.csv("path/to/supplementary_material/DEPs.csv", sep="\t")
 protein <- protein[,c(1,2,4,6,8)] #Keep only the columns with log2INFO
 colnames(protein) <- c("locus_tag", "P_4:0","P_24:0","P_48:0","P_120:0")
 #Transcriptomis:
-gene <- read.csv("data/DEGs/DEGs.tsv", sep="\t")
+gene <- read.csv("path/to/supplemtary_material/DEGs.tsv", sep="\t")
 gene <- gene[,c(1,2,4,6,8)]  #Keep only the columns with log2INFO
 colnames(gene) <- c("locus_tag", "T_4:0","T_24:0","T_48:0","T_120:0")
 

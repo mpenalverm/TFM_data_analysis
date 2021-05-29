@@ -4,3 +4,10 @@
 !.gitignore
 !README.md
 !LICENSE
+!data
+!data/Annotation
+!data/five_utr
+!data/regulons_db
+!data/Annotation/*
+!data/five_utr/*
+!data/regulons_db/regulon.gmt

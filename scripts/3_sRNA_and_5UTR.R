@@ -48,7 +48,7 @@ write.table(five_utr_fasta, "results/sRNAs/fiveutrs.fna", row.names = FALSE, col
 # ********************************************************************************************************************************
 
 #Load info about sRNA log2fc expression patters:
-sRNA <- read.table("data/sRNAs/sRNAS_log2FC.csv", sep="\t", header=TRUE)
+sRNA <- read.table("path/to/supplementary_material/sRNAS_log2FC.csv", sep="\t", header=TRUE)
 
 #For each Differential Expression analysis (4h vs 0h, 24h vs 0h, 48h vs 0h, 120h vs 0h), we extract the names of those sRNAs that are known to be 
 sRNA.4 <- as.vector(sRNA[(sRNA$l2fc_4v0h > 2 | sRNA$l2fc_4v0h < -2) & (sRNA$padj_4v0h < 0.05),1])

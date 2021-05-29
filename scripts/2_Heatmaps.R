@@ -10,10 +10,10 @@
 library(gplots)
 
 #Load the list of manually supervised regulons
-heat.table <- read.csv("data/significant_regulons/regulon_manually_curated.csv", sep="\t", header = FALSE)
+heat.table <- read.csv("path/to/supplementary_material/regulon_manually_curated.csv", sep="\t", header = FALSE)
 
 #Load the differential expression analysis data: 
-gene <- read.csv("data/DEGs/DEGs.tsv", sep="\t")
+gene <- read.csv("path(to/suplemmentary_material/DEGs.tsv", sep="\t")
 gene <- gene[,c(1,2,4,6,8)]
 colnames(gene) <- c("locus_tag", "T_4:0","T_24:0","T_48:0","T_120:0")
 
