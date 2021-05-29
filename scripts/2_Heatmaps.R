@@ -38,12 +38,12 @@ for(i in levels(heat.table[,1])){
   regulated <- as.matrix(regulated[,2:5])
   total <- rbind(regulator,regulated)
   height <- as.numeric(nrow(total)*300)
-  jpeg(paste("results/regulatory_networks/heatmaps/",i, sep=""), height = height, width = 7000, quality = 100, res=300)
-  heatmap.2(total,col=redblue, dendrogram='row', Rowv=TRUE, Colv=FALSE, breaks=seq(-4, 4,length.out=100), na.color = "grey", cexRow = 1.5, cexCol = 2, margins = c(12, 15))
+  jpeg(paste("results/regulatory_networks/heatmaps/",i, ".jpeg", sep=""), height = height, width = 4000, quality = 100, res=300)
+  heatmap.2(total,col=redblue, dendrogram='row', Rowv=TRUE, Colv=FALSE, breaks=seq(-4, 4,length.out=100), na.color = "grey", cexRow = 3, cexCol = 2, margins = c(12, 40))
   dev.off()
 }
 
-## R VERSION INFO:
+  ## R VERSION INFO:
 # R version 3.6.3 (2020-02-29)
 # Platform: x86_64-pc-linux-gnu (64-bit)
 # Running under: Ubuntu 18.04.5 LTS
