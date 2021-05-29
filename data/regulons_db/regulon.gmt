@@ -1,0 +1,237 @@
+AlsR: lmo0734	from_listeria	lmo0735	lmo0736	lmo0737	lmo0738	lmo0739	lmo0734
+ArgR: lmo1367	from_listeria	lmo2090	lmo2091	lmo1591	lmo1590	lmo1589	lmo1588	lmo1587
+BglR2: lmo0535	from_listeria	lmo0018	lmo0536	lmo0535	lmo0261
+BglR: lmo1727	from_listeria	lmo1729	lmo1728	lmo1727	lmo1730	lmo1731	lmo1732
+CcpA/CRE_lmo1599	from_listeria	lmo1599
+CcpB: lmo2737	from_listeria	lmo2738	lmo2737
+CesR	from_listeria	lmo0443	lmo1037	lmo1215	lmo1416	lmo2120	lmo2420	lmo2442	lmo2687	lmo2688	lmo2689	lmo2812
+CsoR: lmo1854	from_listeria	lmo1854	lmo1853	lmo1852
+CtsR	from_listeria	lmo0977	lmo0229	lmo0230	lmo0231	lmo0232	lmo2468
+CzrA: lmo2493	from_listeria	lmo2493	lmo2492	lmo2491	lmo2490
+furA	from_listeria	lmo2180	lmo2181	lmo2182	lmo2183	lmo2184	lmo2185	lmo2186	lmo0362	lmo0367	lmo0366	lmo0365	lmo0485	lmo0541	lmo0943	lmo1007	lmo1131	lmo1956	lmo1957	lmo1958	lmo1960	lmo1959	lmo2105	lmo2104
+Fur: lmo1956	from_listeria	lmo1959	lmo1476	lmo0365	lmo0366	lmo0367	lmo0362	lmo0361	lmo1958	lmo1957	lmo2186	lmo2185	lmo2184	lmo2183	lmo2182	lmo2181	lmo0541	lmo0484	lmo2785	lmo0943	lmo1956	lmo2261	lmo2260	lmo2431	lmo2430	lmo2429	lmo2104	lmo2105	lmo0829	lmo1960	lmo1961
+GmuR: lmo0575, lmo0902	from_listeria	lmo0574	lmo0575	lmo2110	lmo0902	lmo0901
+HisR: lmo1763	from_listeria	lmo0570	lmo0569	lmo0568	lmo0567	lmo0566	lmo0565	lmo0564	lmo0563	lmo0562	lmo0561
+HrcA: lmo1475	from_listeria	lmo2069	lmo2068	lmo1475	lmo1474	lmo1473	lmo1472
+LadR: Lmo1408	from_listeria	lmo1409	lmo1618	lmo1972	lmo1617
+LexA	from_listeria	lmo1302	lmo1303	lmo1398	lmo1421	lmo1422	lmo1975	lmo0157	lmo0158	lmo1574	lmo1640	lmo1639	lmo1638	lmo1759	lmo1758	lmo2222	lmo2221	lmo2220	lmo2268	lmo2267	lmo2266	lmo2265	lmo2271	lmo2332	lmo2489	lmo2488	lmo2675	lmo2676	lmo2828
+LexA: lmo1302	from_listeria	lmo2222	lmo2221	lmo2220	lmo0157	lmo0158	lmo1640	lmo1639	lmo1638	lmo2675	lmo2676	lmo2489	lmo2488	lmo1398	lmo1302	lmo1301	lmo2268	lmo2267	lmo2266	lmo2265	lmo2332	lmo1975	lmo1759	lmo1758	lmo1757	lmo1574
+LftR	from_listeria	lmo0979	lmo0980	lmo0720	lmo0981	lmo0982	lmo0983	lmo2314	lmo2678	lmo2679	lmo2282	lmo1148	lmo2680	lmo2281	lmo2335	lmo2296	lmo2834	lmo2788	lmo2336	lmo0051	lmo0372	lmo0985	lmo2287
+LiaSR	from_listeria	lmo0954	lmo0955	lmo1966	lmo2484	lmo2485	lmo2486	lmo2487	lmo2567	lmo2568
+lisK	from_listeria	lmo0292	lmo2229	lmo1021
+LisR	from_listeria	lmo0211	lmo0292	lmo0802	lmo1315	lmo1377	lmo1518	lmo1680	lmo1681	lmo1690	lmo1698	lmo1919	lmo2210	lmo2350	lmo2522	lmo2720
+LltR : lmo0599 	from_listeria	lmo0599	lmo0600	lmo0601	lmo0602	lmo2291	lmo0954	lmo2323	lmo2487	lmo1113	lmo0589	lmo0129	lmo0124	lmo2484	lmo0955	lmo2486	lmo1637	lmo2293	lmo0047	lmo1636	lmo1966	lmo0116	lmo0595	lmo1991	lmo0917	lmo0119	lmo0702	lmo0594
+Lmo0031: lmo0031	from_listeria	lmo0032	lmo0033	lmo0034	lmo0035	lmo0031	lmo0030
+LtsR : Lmo0422	from_listeria	lmo0421	lmo0423	lmo0420	lmo0419	lmo2847	lmo0783	lmo0027	lmo0086	lmo1539	lmo1216	lmo0591	lmo2323	lmo0026	lmo2733	lmo1171	lmo2799	lmo2773	lmo1152	lmo0136	lmo2050	lmo0517	lmo1172	lmo1538	lmo0137	lmo2816	lmo0991	lmo0079	lmo1682	lmo0138	lmo1991
+MdxR: lmo2128	from_listeria	lmo2126	lmo2125	lmo2124	lmo2123	lmo2122	lmo2121
+MntR: lmo1878	from_listeria	lmo1849	lmo1848	lmo1847	lmo1424
+MogR	from_listeria	lmo0690	lmo0691	lmo0723	lmo0703	lmo0675	lmo1699	lmo1266
+MouR: lmo0651	from_listeria	lmo0048	lmo0049	lmo0050	lmo0051	lmo0278
+NagR: lmo0958	from_listeria	lmo1571	lmo0830	lmo1883	lmo0956	lmo0957	lmo0958
+NrdR: lmo1562	from_listeria	lmo2155	lmo2154	lmo2153	lmo2152	lmo0279	lmo0280
+PdxR: lmo2100	from_listeria	lmo2100	lmo2101	lmo2102
+prfA	from_listeria	lmo0201	lmo0202	lmo0203	lmo0204	lmo0205	lmo0206	lmo0433	lmo0434	lmo0692	lmo1786
+RecA-LexA	from_listeria	lmo0157 	lmo0158	lmo1302 	lmo1303 	lmo1398 	lmo1421 	lmo1422	lmo1574 	lmo1640 	lmo1639	lmo1638	lmo1759 	lmo1758	lmo1975 	lmo2222 	lmo2221	lmo2220	lmo2268 	lmo2267	lmo2266	lmo2265	lmo2264	lmo2271 	lmo2332 	lmo2489 	lmo2488	lmo2675 	lmo2676	lmo2828 
+SigB	from_listeria	lmo0013	lmo0014	lmo0015	lmo0016	lmo0019	lmo0043	lmo0133	lmo0134	lmo0169	lmo0170	lmo0200	lmo0210	lmo0221	lmo0222	lmo0232	lmo0231	lmo0230	lmo0263	lmo0265	lmo0274	lmo0292	lmo0321	lmo0336	lmo0359	lmo0360	lmo0405	lmo0406	lmo0407	lmo0408	lmo0433	lmo0434	lmo0439	lmo0515	lmo0524	lmo0527	lmo0529	lmo0530	lmo0539	lmo0554	lmo0555	lmo0579	lmo0580	lmo0589	lmo0590	lmo0591	lmo0592	lmo0593	lmo0596	lmo0602	lmo0610	lmo0628	lmo0629	lmo0648	lmo0647	lmo0654	lmo0655	lmo0669	lmo0670	lmo0722	lmo0784	lmo0783	lmo0782	lmo0781	lmo0794	lmo0796	lmo0869	lmo0870	lmo0880	lmo0893	lmo0894	lmo0895	lmo0896	lmo0911	lmo0913	lmo0929	lmo0937	lmo0953	lmo0956	lmo0957	lmo0958	lmo0994	lmo0995	lmo1014	lmo1015	lmo1016	lmo1067	lmo1068	lmo1140	lmo1151	lmo1152	lmo1153	lmo1156	lmo1154	lmo1159	lmo1164	lmo1168	lmo1226	lmo1241	lmo1261	lmo1295	lmo1340	lmo1375	lmo1421	lmo1422	lmo1428	lmo1427	lmo1426	lmo1425	lmo1433	lmo1432	lmo1454	lmo1526	lmo1539	lmo1538	lmo1602	lmo1601	lmo1606	lmo1605	lmo1666	lmo1698	lmo1704	lmo1703	lmo1702	lmo1701	lmo1713	lmo1789	lmo1790	lmo1830	lmo1838	lmo1837	lmo1836	lmo1835	lmo1834	lmo1833	lmo1832	lmo1831	lmo1883	lmo1933	lmo1932	lmo1931	lmo1930	lmo1929	lmo1992	lmo2067	lmo2085	lmo2092	lmo2130	lmo2132	lmo2156	lmo2157	lmo2158	lmo2174	lmo2191	lmo2190	lmo2205	lmo2213	lmo2230	lmo2231	lmo2232	lmo2269	lmo2358	lmo2386	lmo2387	lmo2391	lmo2398	lmo2434	lmo2454	lmo2460	lmo2459	lmo2458	lmo2457	lmo2456	lmo2455	lmo2463	lmo2462	lmo2485	lmo2484	lmo2494	lmo2511	lmo2573	lmo2572	lmo2571	lmo2570	lmo2602	lmo2603	lmo2672	lmo2671	lmo2670	lmo2673	lmo2674	lmo2697	lmo2696	lmo2695	lmo2724	lmo2733	lmo2735	lmo2748	lmo2747	lmo2746	rli95	rli47	anti0946	anti2270	Lysine	lmo1580	lmo1694	lmo2175	rli118	rli119	rli127	rli128	anti0671	anti1255	anti0605	anti0647-1	anti0675-677	lmo2362	lmo2363	lmo2468	lmo1571	lmo2477	lmo1339	lmo0036	lmo0037	lmo1367	lmo0373	lmo2668	lmo2667	lmo2666	lmo2665	lmo0398	lmo0399	lmo0400	lmo0401	lmo0402	lmo0551	lmo0671	lmo0723	lmo0724	lmo1300	lmo2094	lmo2095	lmo2837	lmo2836	lmo2835	lmo2834	lmo0821	lmo0075	lmo0076	lmo0105	lmo0460	lmo0461	lmo0462	lmo0463	lmo0464
+sigL_UP_37C	from_listeria	lmo0490	lmo0491	lmo1299	lmo2006	lmo2236	lmo1551	lmo2274	lmo0972	lmo2278	lmo2312	lmo2552	lmo2636	lmo2637	lmo2291	lmo1804	lmo2235	lmo2273	lmo2506	lmo2507	lmo0152	lmo2569	lmo1351	lmo1498	lmo2316	lmo2638	lmo2103	lmo0214	lmo1287	lmo1320	lmo2308	lmo2332	lmo0210	lmo0934	lmo1052	lmo1053	lmo1054	lmo1055	lmo1406	lmo1634	lmo1867	lmo1917	lmo1992	lmo2456	lmo2457	lmo2458	lmo2459	lmo2659	lmo2660	lmo2717	lmo2718	lmo0788	lmo2201	lmo1298	lmo1956	lmo2173	lmo2328	lmo2329	lmo2365	lmo2460	lmo2726	lmo0960	lmo0961	lmo1407	lmo1603	lmo1803	lmo2612	lmo2504	lmo0044	lmo0046	lmo0228	lmo0248	lmo0249	lmo0250	lmo0251	lmo0935	lmo1222	lmo1325	lmo1471	lmo1480	lmo1504	lmo1552	lmo1598	lmo1783	lmo1785	lmo1797	lmo1816	lmo2548	lmo2605	lmo2607	lmo2608	lmo2609	lmo2610	lmo2613	lmo2614	lmo2615	lmo2616	lmo2617	lmo2618	lmo2619	lmo2620	lmo2621	lmo2622	lmo2623	lmo2624	lmo2625	lmo2626	lmo2627	lmo2628	lmo2629	lmo2630	lmo2631	lmo2632	lmo2633	lmo2654	lmo2856	lmo0279	lmo1885	lmo2559	lmo2611	lmo0280	lmo0259	lmo1327	lmo2606	lmo2275	lmo0096	lmo0097	lmo0098	lmo0135	lmo0136	lmo0137	lmo0573	lmo0641	lmo0798	lmo0847	lmo0848	lmo0897	lmo1845	lmo2192	lmo2193	lmo2715	lmo2716	lmo2219	lmo2285	lmo2292	lmo2293	lmo2296	lmo2297	lmo2299	lmo2315	lmo2321	lmo2326	lmo2330
+sigL_UP_3C	from_listeria	lmo0316	lmo0317	lmo1043	lmo1045	lmo1046	lmo2101	lmo2274	lmo2694	lmo0366	lmo0688	lmo1044	lmo1695	lmo2278	lmo2312	lmo2484	lmo2691	lmo0685	lmo2291	lmo0601	lmo0686	lmo0689	lmo0690	lmo0692	lmo0693	lmo0696	lmo0697	lmo0698	lmo0699	lmo0700	lmo0705	lmo0706	lmo0707	lmo0708	lmo0710	lmo0711	lmo0712	lmo0713	lmo0714	lmo0723	lmo1967	lmo2273	lmo2506	lmo2507	lmo2673	lmo0341	lmo1301	lmo2316	lmo1349	lmo1350	lmo1561	lmo2676	lmo1302	lmo0014	lmo0015	lmo0016	lmo0182	lmo0183	lmo0184	lmo0305	lmo0342	lmo0343	lmo0344	lmo0346	lmo0736	lmo1055	lmo1293	lmo1538	lmo1678	lmo1969	lmo2057	lmo2134	lmo2528	lmo2743	lmo2771	lmo2695	lmo2696	lmo0232	lmo2288	lmo2279	lmo2290	lmo2485	lmo0650	lmo0161	lmo0315	lmo1102	lmo1150	lmo1172	lmo1173	lmo1962	lmo2328	lmo2329	lmo2583	lmo2672	lmo2678	lmo2739	lmo2784	lmo0691	lmo0681	lmo1666	lmo1097	lmo2280	lmo2505	lmo0716	lmo2693	lmo2275	lmo1971	lmo2772	lmo0179	lmo0180	lmo0181	lmo1100	lmo1516	lmo1539	lmo1731	lmo1732	lmo1738	lmo1739	lmo1740	lmo1848	lmo1963	lmo1964	lmo2495	lmo2496	lmo0717	lmo2281	lmo2283	lmo2284	lmo2285	lmo2286	lmo2289	lmo2292	lmo2293	lmo2296	lmo2297	lmo2299	lmo2315	lmo2326	lmo2330
+TreR: lmo1253	from_listeria	lmo1255	lmo1254
+UriR: lmo1994	from_listeria	lmo1993
+VirRS	from_listeria	lmo0972	lmo0973	lmo0974	lmo2177
+YcjW: lmo2842	from_listeria	lmo2842	lmo2841	lmo2840	lmo2839	lmo2838	lmo2837	lmo2836	lmo2835	lmo2834	lmo2833
+YhcF: lmo1725	from_listeria	lmo1725	lmo1724	lmo1723
+YtrA: lmo2241	from_listeria	lmo2241	lmo2240	lmo2239
+Zur: lmo1445	from_listeria	lmo0153	lmo0154	lmo0155	lmo1671	lmo1447	lmo1446	lmo1445	lmo1882
+AbrB	from_bacilus	lmo0168	lmo0243	lmo0245	lmo1152	lmo0791	lmo0333	lmo0901	lmo0574	lmo0575	lmo0813	lmo2836	lmo1539	lmo1538	lmo1293	lmo1343	lmo2139	lmo2140	lmo2808	lmo2270	lmo2842	lmo0638	lmo1982	lmo0203	lmo2057	lmo1099	lmo2387	lmo1829	lmo1654	lmo1415	lmo0623	lmo0170	lmo0467	lmo0479	lmo2295	lmo2446	lmo0116	lmo0072	lmo2696	lmo0125	lmo1638	lmo2522	lmo0880	lmo0688	lmo2420	lmo1412	lmo1752	lmo0409	lmo2296	lmo0514	lmo0099	lmo0723	lmo0080	lmo2813	lmo2433	lmo0280	lmo0194	lmo0193	lmo2305	lmo2494	lmo2554	lmo0326	lmo2089	lmo0734	lmo2341	lmo0534	lmo2093	lmo0798	lmo2759	lmo0560	lmo0253	lmo2832	lmo0649	lmo0458	lmo0095
+AdaA	from_bacilus	lmo2243
+AdhR	from_bacilus	lmo2256
+AhrC	from_bacilus	lmo1591	lmo1590	lmo1589	lmo1588	lmo1587	lmo2091	lmo2090	lmo0798	lmo2759	lmo0560	lmo2362	lmo1635
+AnsR	from_bacilus	lmo2644	lmo1262
+AraR	from_bacilus	lmo0180	lmo2838	lmo2094	lmo0341
+AscR	from_bacilus	lmo2640	lmo2343	lmo2344	lmo2345	lmo2346	lmo2347	lmo2348	lmo2349	lmo2350
+BceR	from_bacilus	lmo1746	lmo1747
+BirA	from_bacilus	lmo0268	lmo1191
+BkdR	from_bacilus	lmo1374	lmo1371	lmo1370	lmo1369
+BltR	from_bacilus	lmo0212
+BmrR	from_bacilus	lmo2722
+CcpA	from_bacilus	lmo0333	lmo2138	lmo0889	lmo0890	lmo0892	lmo0893	lmo0895	lmo2762	lmo0901	lmo0574	lmo0575	lmo0813	lmo2011	lmo2820	lmo0464	lmo2680	lmo2410	lmo1255	lmo0184	lmo1253	lmo0577	lmo0675	lmo2766	lmo2466	lmo1539	lmo1538	lmo1293	lmo0336	lmo2098	lmo0033	lmo2663	lmo2707	lmo1727	lmo1008	lmo1009	lmo1010	lmo2057	lmo1274	lmo1275	lmo0120	lmo1641	lmo2395	lmo0125	lmo0880	lmo0730	lmo1969	lmo0344	lmo1752	lmo0409	lmo2824	lmo1947	lmo1948	lmo0478	lmo1953	lmo1954	lmo2644	lmo0781	lmo1997	lmo1990	lmo1988	lmo1986	lmo2838	lmo1737	lmo2094	lmo0413	lmo2500	lmo2501	lmo2132	lmo1566	lmo1581	lmo1716	lmo0808	lmo2846	lmo2849	lmo0339	lmo0341	lmo1730	lmo2461	lmo2472	lmo2473	lmo2474	lmo1248	lmo0956	lmo0957	lmo0958	lmo0740	lmo1173	lmo0734	lmo2341	lmo0534	lmo2093	lmo0560	lmo0401	lmo0010	lmo0521	lmo1719	lmo2684	lmo2373	lmo2715	lmo2716	lmo2717	lmo2718	lmo0278	lmo2727	lmo2172	lmo2786	lmo2673	lmo0319	lmo2772	lmo1518	lmo1993	lmo1995	lmo2556	lmo2234	lmo0546	lmo2850	lmo2162	lmo0386	lmo0385	lmo0384	lmo0383	lmo0649	lmo0458	lmo0095	lmo0380
+CcpC	from_bacilus	lmo1010	lmo1641	lmo2132	lmo1567
+CcpN	from_bacilus	lmo1873	lmo1874
+CggR	from_bacilus	lmo2455	lmo2457	lmo2458	lmo2459	lmo2460
+CitB	from_bacilus	lmo1566	lmo1567	lmo0016	lmo0015	lmo0014	lmo0013
+CodY	from_bacilus	lmo2758	lmo2594	lmo0414	lmo1786	lmo0448	lmo2808	lmo1591	lmo1590	lmo1589	lmo1588	lmo1587	lmo0136	lmo0137	lmo2195	lmo2194	lmo2193	lmo2192	lmo2351	lmo2063	lmo2196	lmo0028	lmo0835	lmo0203	lmo1778	lmo1276	lmo1277	lmo1278	lmo1279	lmo1280	lmo0710	lmo0711	lmo0712	lmo0713	lmo0714	lmo0716	lmo0696	lmo0697	lmo0699	lmo0700	lmo0691	lmo0676	lmo0677	lmo0678	lmo0679	lmo0680	lmo0681	lmo0692	lmo1415	lmo0623	lmo0170	lmo0467	lmo0479	lmo1641	lmo1991	lmo1983	lmo1374	lmo1371	lmo1370	lmo1369	lmo0796	lmo1989	lmo1988	lmo1987	lmo1984	lmo1581	lmo1388	lmo1390	lmo1391	lmo2545	lmo2547	lmo1039	lmo2418	lmo2419	lmo0690	lmo1136	lmo0798	lmo2759	lmo1121	lmo0978	lmo0253	lmo2362	lmo1635
+ComK	from_bacilus	lmo0941	lmo2270	lmo2268	lmo2267	lmo1645	lmo1398	lmo1342	lmo1346	lmo1484	lmo1544	lmo1545	lmo1546	lmo1547	lmo1548	lmo0280	lmo0194	lmo0193	lmo0706	lmo0705	lmo2512	lmo2513	lmo2523	lmo0046	lmo0045	lmo0044	lmo2779	lmo2794	lmo2802	lmo2810	lmo2811
+CsoR	from_bacilus	lmo1853	lmo1852
+CssR	from_bacilus	lmo0951	lmo2767
+CtsR_bacillus	from_bacilus	lmo0229	lmo0230	lmo0997	lmo1558	lmo0587	lmo2468
+CymR	from_bacilus	lmo0223	lmo2207	lmo1145	lmo2066	lmo0074	lmo1203	lmo1791	lmo1141	lmo1494	lmo2344	lmo2345	lmo2346	lmo2347	lmo0732	lmo2350	lmo2352	lmo1139
+CysL	from_bacilus	lmo2146
+DegU	from_bacilus	lmo0791	lmo2083	lmo1107	lmo1829	lmo0710	lmo0711	lmo0712	lmo0713	lmo0714	lmo0716	lmo0696	lmo0697	lmo0699	lmo0700	lmo0691	lmo0676	lmo0677	lmo0678	lmo0679	lmo0680	lmo0681	lmo0692	lmo2809	lmo0060	lmo0059	lmo0056	lmo2502	lmo2065	lmo0706	lmo0705	lmo2512	lmo2513	lmo1173	lmo0017
+DeoR	from_bacilus	lmo1993	lmo1995
+DnaA	from_bacilus	lmo0688	lmo2420	lmo1412	lmo2541	lmo1121	lmo0293	lmo2794	lmo2802	lmo2810	lmo2811
+ExuR	from_bacilus	lmo0033	lmo2663	lmo2707	lmo1727
+FapR	from_bacilus	lmo1647	lmo2202	lmo2201	lmo1810	lmo1809	lmo1808	lmo2175	lmo1806
+Fnr	from_bacilus	lmo0850	lmo2165
+FrlR	from_bacilus	lmo1039	lmo2837	lmo1731
+FruR	from_bacilus	lmo0427
+Fur	from_bacilus	lmo1961	lmo1201	lmo2079	lmo2753	lmo0484	lmo2595	lmo0303	lmo2430	lmo0485	lmo0641	lmo2186	lmo1710	lmo1733	lmo1734	lmo0080	lmo2813	lmo2433	lmo2182	lmo1960	lmo1957	lmo1958	lmo2572	lmo0367	lmo0366	lmo0365	lmo1959
+GabR	from_bacilus	lmo0998	lmo0913
+GlcR	from_bacilus	lmo0663	lmo2107
+GlcT	from_bacilus	lmo1002	lmo1003
+GlnR	from_bacilus	lmo2258	lmo1298	lmo1299	lmo1136
+GlpP	from_bacilus	lmo1538	lmo1293
+GltC	from_bacilus	lmo1733	lmo1734	lmo1735
+GlvR	from_bacilus	lmo0675	lmo2766
+GmuR	from_bacilus	lmo2762	lmo2780	lmo0901	lmo0575
+GntR	from_bacilus	lmo0649	lmo0458	lmo0095
+HrcA	from_bacilus	lmo2068	lmo1470	lmo1471	lmo1474	lmo1475
+IolQ	from_bacilus	lmo2834
+IolR	from_bacilus	lmo2556	lmo2234	lmo0546	lmo2850	lmo2162	lmo0386	lmo0385	lmo0384	lmo0383	lmo0382
+KipR	from_bacilus	lmo2356
+LevR	from_bacilus	lmo0781	lmo0782	lmo0783	lmo1997
+LexA_bacillus	from_bacilus	lmo1760	lmo1759	lmo1757	lmo2222	lmo2221	lmo2220	lmo1270	lmo1398	lmo1302	lmo1303	lmo0496	lmo1286	lmo1287	lmo2395	lmo2740	lmo1934	lmo0800	lmo2306	lmo2246	lmo1234	lmo2488	lmo2489	lmo1121	lmo2173
+LiaR	from_bacilus	lmo1022	lmo1021	lmo1020	lmo0601	lmo0955
+LicR	from_bacilus	lmo0521	lmo1719	lmo2684	lmo2373
+LicT	from_bacilus	lmo2786	lmo2673	lmo0319	lmo2772
+LmrA	from_bacilus	lmo0519	lmo2464	lmo0048
+LutR	from_bacilus	lmo2296
+LytT	from_bacilus	lmo0684
+ManR	from_bacilus	lmo0633	lmo2143
+MhqR	from_bacilus	lmo0267	lmo0760	lmo1423	lmo0786
+MntR	from_bacilus	lmo1424	lmo2423	lmo2231	lmo1849	lmo1847
+Mta	from_bacilus	lmo0388	lmo1393	lmo2722	lmo0212	lmo0526
+MtlR	from_bacilus	lmo2651
+MurR	from_bacilus	lmo2781	lmo0905
+NadR	from_bacilus	lmo2023	lmo2022
+NagR	from_bacilus	lmo0073	lmo0956	lmo0957	lmo0958
+NrdR	from_bacilus	lmo2155	lmo2154
+NtdR	from_bacilus	lmo0418
+NusA	from_bacilus	lmo1321	lmo1322	lmo1323	lmo1324	lmo1325	lmo1326	lmo1327
+OhrR	from_bacilus	lmo2199
+PchR	from_bacilus	lmo0740
+PerR	from_bacilus	lmo1786	lmo1511	lmo1683	lmo2191	lmo0641	lmo2155	lmo2154	lmo1956	lmo1554	lmo1556
+PhoP	from_bacilus	lmo0952	lmo1786	lmo1255	lmo1253	lmo1947	lmo1948	lmo0478	lmo2495	lmo2496	lmo2498	lmo2499	lmo2500	lmo2501	lmo1716	lmo2511	lmo0589	lmo2148	lmo0314	lmo1075	lmo1074	lmo2375	lmo1089	lmo2521	lmo1088	lmo1121	lmo1417	lmo0087
+PurR	from_bacilus	lmo0192	lmo0844	lmo0573	lmo1774	lmo1773	lmo1772	lmo1770	lmo1769	lmo1766	lmo1765	lmo1764	lmo1884	lmo1885	lmo1360	lmo1359	lmo2254	lmo2539	lmo0055
+PyrR	from_bacilus	lmo1840	lmo1839	lmo1838	lmo1837	lmo1836	lmo1835	lmo1834	lmo1833	lmo1832	lmo1831
+ResD	from_bacilus	lmo1507	lmo1538	lmo0337	lmo0628	lmo2186	lmo1710	lmo2058	lmo2057	lmo2155	lmo2154	lmo1752	lmo0409	lmo1947	lmo1948	lmo0478	lmo2165	lmo2715	lmo2716	lmo2717	lmo2718
+Rex	from_bacilus	lmo0210	lmo2805	lmo0337	lmo1992	lmo2006	lmo0593	lmo2715	lmo2716	lmo2717	lmo2718
+RhaR	from_bacilus	lmo2848	lmo2846	lmo2849	lmo0352	lmo0339
+RocR	from_bacilus	lmo1302	lmo0798	lmo2759	lmo0560	lmo2362	lmo1635	lmo2173
+RplJ	from_bacilus	lmo0250
+RplL	from_bacilus	lmo0250	lmo0251
+RplT	from_bacilus	lmo1783	lmo1785
+RpsB	from_bacilus	lmo1658
+RpsD	from_bacilus	lmo1596
+RsfA	from_bacilus	lmo0674	lmo2785
+SalA	from_bacilus	lmo2590	lmo2808
+ScoC	from_bacilus	lmo0136	lmo0137	lmo2195	lmo2193	lmo2192	lmo0203	lmo2501	lmo0690	lmo0706	lmo0705	lmo2512	lmo2513
+SdpR	from_bacilus	lmo2305
+SigA	from_bacilus	lmo0002	lmo0005	lmo0006	lmo0007	lmo2719	lmo0198	lmo0199	lmo0211	lmo0029	lmo0219	lmo0223	lmo2750	lmo0226	lmo2210	lmo0227	lmo0228	lmo0232	lmo0233	lmo0238	lmo0239	lmo0240	lmo0242	lmo0243	lmo0258	lmo0259	lmo2630	lmo2628	lmo2626	lmo2624	lmo2620	lmo2616	lmo2615	lmo2614	lmo2612	lmo2611	lmo1709	lmo2610	lmo2609	lmo2605	lmo2120	lmo2243	lmo0952	lmo0838	lmo0042	lmo2721	lmo0910	lmo0519	lmo2594	lmo0154	lmo0155	lmo1014	lmo1015	lmo0333	lmo1201	lmo1786	lmo0555	lmo0998	lmo0913	lmo2061	lmo2799	lmo2138	lmo2085	lmo2756	lmo2753	lmo0891	lmo0896	lmo0793	lmo0919	lmo2762	lmo2780	lmo0901	lmo0574	lmo2069	lmo2068	lmo1096	lmo1775	lmo1774	lmo1771	lmo1770	lmo1768	lmo1767	lmo1764	lmo0941	lmo1409	lmo2680	lmo2410	lmo0073	lmo1255	lmo0184	lmo1253	lmo0938	lmo0577	lmo0675	lmo2466	lmo0646	lmo1689	lmo1688	lmo1683	lmo1145	lmo1539	lmo1293	lmo2443	lmo2340	lmo2805	lmo2808	lmo2229	lmo2270	lmo2268	lmo2267	lmo1646	lmo1645	lmo0336	lmo1591	lmo1590	lmo1589	lmo1588	lmo1587	lmo2202	lmo2201	lmo2191	lmo2190	lmo1680	lmo1679	lmo2098	lmo0633	lmo2143	lmo0033	lmo2663	lmo2707	lmo1727	lmo0267	lmo2351	lmo2063	lmo2196	lmo0628	lmo1259	lmo2199	lmo2200	lmo0282	lmo0286	lmo2729	lmo0997	lmo0641	lmo1002	lmo1003	lmo1010	lmo2186	lmo1710	lmo0504	lmo1023	lmo1027	lmo1028	lmo1052	lmo1053	lmo1054	lmo1055	lmo1071	lmo1072	lmo2058	lmo2046	lmo1185	lmo2035	lmo0780	lmo2034	lmo2742	lmo2033	lmo2032	lmo1099	lmo2387	lmo1840	lmo1839	lmo1838	lmo1837	lmo1836	lmo1835	lmo1834	lmo1833	lmo1832	lmo1831	lmo2066	lmo0074	lmo1203	lmo1791	lmo1141	lmo1823	lmo1822	lmo0482	lmo1810	lmo1809	lmo1808	lmo2175	lmo1806	lmo1805	lmo1804	lmo1803	lmo1802	lmo1801	lmo1797	lmo1796	lmo1794	lmo1793	lmo1792	lmo1787	lmo1276	lmo1277	lmo1278	lmo1279	lmo1280	lmo0710	lmo0711	lmo0712	lmo0713	lmo0714	lmo0716	lmo0696	lmo0697	lmo0699	lmo0700	lmo0691	lmo0676	lmo0677	lmo0678	lmo0679	lmo0680	lmo0681	lmo0692	lmo1321	lmo1322	lmo1323	lmo1324	lmo1325	lmo1326	lmo1327	lmo1437	lmo1436	lmo1435	lmo1434	lmo1386	lmo1398	lmo2155	lmo2154	lmo1298	lmo1299	lmo0120	lmo1172	lmo1650	lmo1641	lmo1286	lmo1287	lmo1733	lmo1734	lmo1735	lmo1260	lmo0396	lmo0864	lmo2522	lmo0795	lmo0760	lmo1423	lmo1859	lmo1860	lmo0119	lmo1884	lmo1885	lmo0730	lmo1969	lmo0344	lmo1017	lmo1891	lmo1892	lmo0586	lmo1905	lmo2555	lmo1906	lmo1907	lmo1908	lmo1752	lmo0409	lmo1933	lmo1934	lmo1947	lmo1948	lmo0478	lmo1126	lmo2285	lmo2376	lmo1953	lmo1954	lmo1956	lmo2644	lmo2722	lmo1292	lmo0806	lmo2296	lmo1345	lmo2495	lmo2498	lmo2499	lmo1454	lmo1456	lmo1460	lmo1463	lmo1471	lmo1472	lmo1474	lmo1475	lmo1479	lmo1483	lmo2230	lmo1102	lmo2328	lmo0212	lmo0595	lmo1513	lmo1515	lmo2025	lmo2024	lmo2023	lmo2022	lmo1537	lmo1544	lmo1545	lmo1546	lmo1547	lmo1548	lmo1549	lmo1550	lmo1552	lmo1553	lmo1556	lmo1557	lmo1558	lmo0587	lmo1989	lmo1987	lmo1986	lmo1984	lmo1222	lmo1221	lmo0180	lmo1737	lmo2094	lmo0413	lmo2500	lmo2132	lmo1566	lmo2640	lmo2343	lmo2345	lmo2346	lmo2348	lmo0732	lmo2352	lmo1598	lmo1031	lmo2277	lmo1918	lmo2092	lmo0808	lmo2580	lmo2239	lmo0954	lmo2769	lmo2241	lmo1669	lmo2520	lmo1673	lmo1674	lmo1675	lmo1676	lmo1634	lmo1183	lmo2846	lmo0352	lmo0339	lmo0328	lmo1388	lmo1389	lmo1390	lmo1391	lmo2385	lmo0654	lmo2809	lmo0060	lmo0059	lmo0056	lmo1579	lmo0080	lmo2813	lmo2401	lmo2402	lmo0094	lmo2302	lmo0537	lmo1039	lmo2837	lmo1731	lmo2320	lmo1998	lmo2411	lmo2412	lmo2413	lmo2414	lmo2415	lmo0951	lmo2767	lmo1022	lmo1021	lmo1020	lmo0601	lmo0955	lmo1853	lmo1852	lmo0786	lmo2305	lmo2455	lmo2456	lmo2457	lmo2458	lmo2459	lmo2460	lmo0341	lmo0770	lmo1730	lmo0948	lmo1090	lmo2494	lmo2554	lmo2468	lmo1935	lmo1741	lmo2472	lmo2473	lmo2474	lmo2504	lmo2479	lmo2480	lmo2481	lmo2482	lmo2483	lmo0956	lmo0957	lmo0958	lmo2502	lmo2065	lmo2509	lmo2510	lmo0706	lmo0705	lmo2512	lmo2513	lmo1173	lmo0589	lmo2148	lmo0314	lmo0257	lmo1026	lmo1078	lmo1666	lmo1075	lmo1074	lmo2375	lmo1089	lmo2521	lmo1088	lmo2110	lmo0017	lmo0734	lmo2341	lmo0534	lmo2093	lmo1992	lmo2006	lmo0663	lmo2107	lmo0171	lmo1516	lmo1517	lmo0526	lmo1136	lmo2086	lmo2526	lmo2527	lmo2539	lmo0831	lmo2559	lmo2560	lmo1665	lmo0850	lmo2165	lmo0606	lmo2146	lmo0401	lmo0704	lmo0936	lmo0367	lmo0366	lmo0365	lmo0318	lmo0316	lmo0430	lmo0521	lmo1719	lmo2684	lmo2373	lmo2784	lmo2477	lmo2786	lmo2436	lmo2673	lmo0319	lmo2772	lmo1518	lmo1993	lmo1995	lmo1139	lmo2556	lmo2234	lmo0546	lmo2850	lmo2162	lmo0386	lmo0385	lmo0384	lmo0383	lmo0382	lmo0191	lmo2832	lmo0649	lmo0458	lmo0095	lmo0830	lmo0380	lmo2173	lmo0055	lmo0642	lmo0046	lmo0045	lmo0044	lmo2779	lmo2853	lmo2854	lmo2856
+SigB_bacilus	from_bacilus	lmo1883	lmo0211	lmo0230	lmo0231	lmo0232	lmo0233	lmo0234	lmo2841	lmo1723	lmo1093	lmo0913	lmo0009	lmo2748	lmo1913	lmo0528	lmo0529	lmo0530	lmo0889	lmo0890	lmo0891	lmo0892	lmo0893	lmo0894	lmo0895	lmo0896	lmo1068	lmo1776	lmo2310	lmo0073	lmo0647	lmo1694	lmo2435	lmo1079	lmo2492	lmo1647	lmo2264	lmo2191	lmo2026	lmo0558	lmo0043	lmo0903	lmo1013	lmo1066	lmo1321	lmo1322	lmo1323	lmo1324	lmo1325	lmo1326	lmo1327	lmo2295	lmo2476	lmo2844	lmo2722	lmo1642	lmo1463	lmo1233	lmo2500	lmo2501	lmo1577	lmo1602	lmo1918	lmo2092	lmo0128	lmo0943	lmo1288	lmo2548	lmo0823	lmo0356	lmo2448	lmo2449	lmo2450	lmo2451	lmo2468	lmo2490	lmo2511	lmo1078	lmo1147	lmo2158	lmo2572	lmo0928	lmo2785	lmo1622	lmo0466	lmo0603	lmo2832
+SigE	from_bacilus	lmo1883	lmo2711	lmo0218	lmo1941	lmo2331	lmo2643	lmo0652	lmo0935	lmo2470	lmo2109	lmo1744	lmo2104	lmo2663	lmo2707	lmo2058	lmo1148	lmo2038	lmo2037	lmo2036	lmo0421	lmo2035	lmo0780	lmo2034	lmo2742	lmo2131	lmo2646	lmo1857	lmo2442	lmo0265	lmo1241	lmo2071	lmo1414	lmo1208	lmo2166	lmo0720	lmo0321	lmo1441	lmo1495	lmo1717	lmo1563	lmo1565	lmo1122	lmo0470	lmo1082	lmo1084	lmo1083	lmo1081	lmo1159	lmo0746	lmo2172
+SigG	from_bacilus	lmo2179	lmo0169	lmo0647	lmo0986	lmo0925	lmo1694	lmo1689	lmo1688	lmo2229	lmo2263	lmo0626	lmo1099	lmo2387	lmo2294	lmo0264	lmo1952	lmo0378	lmo0576	lmo0063	lmo0477	lmo0786	lmo2604	lmo1163	lmo2280	lmo0674	lmo0928	lmo0292	lmo2737	lmo1782
+SigH	from_bacilus	lmo0197	lmo2266	lmo2265	lmo2649	lmo2033	lmo2032	lmo2476	lmo0880	lmo1934	lmo1454	lmo1456	lmo1544	lmo1546	lmo1548	lmo1137	lmo1601	lmo1602	lmo2225	lmo2511	lmo1136	lmo1121	lmo1518	lmo0380
+SigL	from_bacilus	lmo1374	lmo1372	lmo1370	lmo1369	lmo0781	lmo0782	lmo0798	lmo2759	lmo0560	lmo2362	lmo1635
+SigV	from_bacilus	lmo0921	lmo0855	lmo0540	lmo1291	lmo0802	lmo0974	lmo0973	lmo0972	lmo0971
+SinR	from_bacilus	lmo0197	lmo1099	lmo2387	lmo0806	lmo2059	lmo0823	lmo1090	lmo2494	lmo2554	lmo0326	lmo2089	lmo1173	lmo0257	lmo0581	lmo0380
+SlrR	from_bacilus	lmo0257
+Spx	from_bacilus	lmo0229	lmo0230	lmo0232	lmo0414	lmo1786	lmo0964	lmo2046	lmo1185	lmo1859	lmo1860	lmo0586	lmo1905	lmo2555	lmo1906	lmo1907	lmo1908	lmo1233	lmo1582	lmo1583	lmo1222	lmo1608	lmo1609	lmo0799	lmo1700	lmo0704	lmo0936
+SwrA	from_bacilus	lmo0710	lmo0711	lmo0712	lmo0713	lmo0714	lmo0716	lmo0696	lmo0697	lmo0699	lmo0700	lmo0691	lmo0676	lmo0677	lmo0678	lmo0679	lmo0680	lmo0681	lmo0692
+TagU	from_bacilus	lmo1026
+TilS	from_bacilus	lmo0219	lmo0220
+TnrA	from_bacilus	lmo1201	lmo0555	lmo2356	lmo2187	lmo0464	lmo0136	lmo2195	lmo2194	lmo2193	lmo2258	lmo1071	lmo1072	lmo1298	lmo1299	lmo1733	lmo1734	lmo1990	lmo1987	lmo1984	lmo2545	lmo2546	lmo2547	lmo0094	lmo1516	lmo1517	lmo1136	lmo2674	lmo0666	lmo0665	lmo0947
+TreR	from_bacilus	lmo1255	lmo0184	lmo1253
+WalR	from_bacilus	lmo1713	lmo2033	lmo2032	lmo2522	lmo2504	lmo1075	lmo1074	lmo2375	lmo1089	lmo2521	lmo1088	lmo0802
+XylR	from_bacilus	lmo0120
+YclJ	from_bacilus	lmo1505	lmo1506	lmo1500
+YfhP	from_bacilus	lmo1689	lmo1688
+YlxR	from_bacilus	lmo1591	lmo1590	lmo1589	lmo1588	lmo1587	lmo1259	lmo0848	lmo2250	lmo1738	lmo2090	lmo1039	lmo1425	lmo1426	lmo1428	lmo0562	lmo0563	lmo0564	lmo0565	lmo0566	lmo0567	lmo0568	lmo0569
+YodB	from_bacilus	lmo0646	lmo0611	lmo1220
+YtrA	from_bacilus	lmo2580	lmo2239	lmo0954	lmo2769	lmo2241	lmo0171
+YwbI	from_bacilus	lmo0544
+Zur	from_bacilus	lmo0153	lmo0155	lmo1882	lmo2548
+FMN-box *1	from_aureus	lmo1945	lmo2438	lmo1952	lmo0341	lmo2719
+G-box *1	from_aureus	lmo1885	lmo1884	lmo2758	lmo1096
+glmS leader *1	from_aureus	lmo0727
+Gly-box *1	from_aureus	lmo1350	lmo1349	lmo1348
+L10 leader *1	from_aureus	lmo0250	lmo0251
+L13 leader *1	from_aureus	lmo2596	lmo2597
+L19 leader *1	from_aureus	lmo1787
+L20 leader *1	from_aureus	lmo1783	lmo1784	lmo1785
+L-box *1; SACOL1272 *1 (rep)	from_aureus	lmo1235	lmo1437	lmo1435	lmo1907	lmo1011	lmo1659	lmo1952
+L-box *1; SACOL2054 (act)	from_aureus	lmo0798
+PreQ1 riboswitch *1; SACOL2054 (act)	from_aureus	lmo0703
+pyrR leader *1	from_aureus	lmo1839	lmo1838	lmo1837	lmo1836	lmo1835	lmo1832	lmo1831
+SACOL0179 *1 (rep); SACOL1786 *1	from_aureus	lmo1718	lmo2766
+SACOL0249 *1 (rep)	from_aureus	lmo0902	lmo0018
+SACOL0314 *1 (rep)	from_aureus	lmo0025	lmo2801
+SACOL0314 *1 (rep); SACOL1786 *1	from_aureus	lmo2796
+SACOL0404 *1 (rep)	from_aureus	lmo0989	lmo0990
+SACOL0513 *1 (act); SACOL1272 *1 (rep)	from_aureus	lmo2299	lmo1734	lmo1733
+SACOL0691 *1 (rep)	from_aureus	lmo1847	lmo1848	lmo1849	lmo1424
+SACOL0757 *1 (rep); SACOL1786 *1	from_aureus	lmo2337	lmo2336
+SACOL0766 *1 (act)	from_aureus	lmo0591	lmo1762	lmo0801	lmo0293	lmo0682	lmo2121	lmo0417	lmo1194
+SACOL0766 *1 (act); SACOL1786 *1	from_aureus	lmo2156
+SACOL0837 *1 (rep)	from_aureus	lmo2460	lmo2459	lmo2458	lmo2457	lmo2456	lmo2455
+SACOL1242 *1 (rep)	from_aureus	lmo2202	lmo2201	lmo0970	lmo1810	lmo1809	lmo1808	lmo2175	lmo1356
+SACOL1242 *1 (rep); SACOL1919 *1 (rep)	from_aureus	lmo1683
+SACOL1272 *1 (rep)	from_aureus	lmo1468	lmo2790	lmo0936	lmo0978	lmo2398	lmo2567	lmo0324	lmo0136	lmo0697	lmo2270	lmo1006	lmo1072	lmo1924	lmo2169	lmo1919	lmo1920	lmo1921	lmo1922	lmo1923	lmo1927	lmo1928	lmo1351	lmo1439	lmo2824	lmo1983	lmo1984	lmo1986	lmo1987	lmo1988	lmo1989	lmo1990	lmo1991	lmo2593	lmo1425	lmo1426	lmo1427	lmo1428	lmo0579	lmo0286	lmo2145	lmo0645	lmo0115	lmo0203
+SACOL1272 *1 (rep); SACOL1328 *1 (rep)	from_aureus	lmo1298	lmo1299	lmo1516
+SACOL1272 *1 (rep); SACOL1565 *1 (rep)	from_aureus	lmo2091	lmo2090	lmo2251	lmo2250
+SACOL1272 *1 (rep); SACOL1681 *1 (rep)	from_aureus	lmo0750
+SACOL1272 *1 (rep); SACOL1786 *1	from_aureus	lmo2395	lmo2465	lmo0787
+SACOL1272 *1 (rep); SACOL1919 *1 (rep)	from_aureus	lmo2785
+SACOL1272 *1 (rep); SACOL1968 *1 (rep)	from_aureus	lmo0562	lmo0563	lmo0564	lmo0565	lmo0566	lmo0567	lmo0568
+SACOL1272 *1 (rep); SACOL2026 *1 (act)	from_aureus	lmo0048	lmo0050	lmo0051
+SACOL1272 *1 (rep); SACOL2054 (act)	from_aureus	lmo1656	lmo0824
+SACOL1272 *1 (rep); SACOL2688 *1 (rep)	from_aureus	lmo1158
+SACOL1272 *1 (rep); T-box(Trp) *1	from_aureus	lmo1633	lmo1632	lmo1631	lmo1630	lmo1629	lmo1628	lmo1627
+SACOL1374 *1 (rep)	from_aureus	lmo2489	lmo2488	lmo1398	lmo1302	lmo1646	lmo0850	lmo1286	lmo1287	lmo2676	lmo2322
+SACOL1496 *1 (rep)	from_aureus	lmo1180	lmo0312	lmo2410	lmo1192	lmo1191
+SACOL1541 *1 (rep)	from_aureus	lmo0685	lmo0023	lmo0193	lmo0040	lmo0366	lmo0367	lmo0365	lmo0361	lmo0362	lmo1960	lmo1958	lmo1957	lmo2594	lmo0485	lmo2185	lmo2186	lmo2184	lmo2183	lmo2181	lmo1799	lmo0541	lmo2430	lmo0125	lmo0527	lmo0661	lmo1959	lmo2390	lmo2104
+SACOL1541 *1 (rep); SACOL1786 *1	from_aureus	lmo1641
+SACOL1541 *1 (rep); SACOL2054 (act)	from_aureus	lmo2746	lmo2604	lmo2105
+SACOL1552 *1 (rep)	from_aureus	lmo0278	lmo2125	lmo2124	lmo2123	lmo2163	lmo0546	lmo2160
+SACOL1552 *1 (rep); SACOL1786 *1	from_aureus	lmo0524	lmo2461
+SACOL1565 *1 (rep)	from_aureus	lmo1589	lmo1590	lmo1591	lmo1588	lmo1368	lmo2116
+SACOL1565 *1 (rep); SACOL1786 *1	from_aureus	lmo0305
+SACOL1565 *1 (rep); SACOL1786 *1; SACOL2035 *1 (rep); SACOL2653 *1 (act)	from_aureus	lmo2165	lmo0039	lmo2852	lmo1587	lmo0043
+SACOL1611 *1 (rep)	from_aureus	lmo1335	lmo1882	lmo1445	lmo1446	lmo1447	lmo2007	lmo0519
+SACOL1639 *1 (rep)	from_aureus	lmo1472	lmo1473	lmo1474	lmo1475	lmo2068	lmo2069
+SACOL1681 *1 (rep)	from_aureus	lmo0946	lmo1997	lmo0595	lmo0667	lmo0283	lmo0859	lmo0223	lmo1391	lmo1288	lmo1505	lmo2347	lmo1738
+SACOL1733 *1 (rep)	from_aureus	lmo0280	lmo0279
+SACOL1786 *1	from_aureus	lmo0953	lmo1970	lmo0838	lmo2239	lmo2245	lmo0379	lmo2341	lmo2340	lmo0999	lmo1254	lmo1253	lmo1084	lmo2695	lmo2696	lmo1451	lmo2425	lmo0560	lmo2023	lmo1167	lmo1538	lmo1293	lmo0757	lmo1566	lmo1567	lmo1570	lmo1571	lmo1579	lmo1877	lmo1599	lmo1144	lmo1569	lmo1008	lmo2556	lmo1995	lmo2320	lmo1864	lmo0376	lmo0041	lmo0954	lmo2816	lmo0830	lmo1812	lmo1813	lmo0825	lmo1415	lmo2365	lmo0633	lmo2110	lmo0698
+SACOL1786 *1; SACOL2030 *1 (rep)	from_aureus	lmo1255
+SACOL1786 *1; SACOL2035 *1 (rep)	from_aureus	lmo1406	lmo1407
+SACOL1786 *1; SACOL2325 *1 (act)	from_aureus	lmo2354	lmo0028
+SACOL1786 *1; SACOL2516 *1 (rep)	from_aureus	lmo2712
+SACOL1822 *1 (rep)	from_aureus	lmo1102	lmo1300
+SACOL1919 *1 (rep)	from_aureus	lmo1341	lmo1604	lmo2414	lmo2413	lmo2412	lmo2411	lmo1684	lmo0943
+SACOL1919 *1 (rep); SACOL2054 (act)	from_aureus	lmo2415
+SACOL1968 *1 (rep)	from_aureus	lmo1761	lmo2385	lmo1763
+SACOL1997 *1 (rep)	from_aureus	lmo2240	lmo0741
+SACOL2030 *1 (rep)	from_aureus	lmo0385
+SACOL2035 *1 (rep)	from_aureus	lmo0287	lmo0288	lmo1634	lmo0210	lmo0593	lmo1508	lmo1948	lmo0103
+SACOL2035 *1 (rep); SACOL2389 *1 (act)	from_aureus	lmo2171	lmo1201
+SACOL2054 (act)	from_aureus	lmo0439	lmo2819	lmo2818	lmo1184	lmo0910	lmo1697	lmo1994	lmo2371	lmo2372	lmo1477	lmo0758	lmo1333	lmo0844	lmo0197	lmo0737	lmo0502	lmo0010	lmo0011	lmo0012	lmo2109	lmo2379	lmo2793	lmo0128	lmo1456	lmo2473	lmo2472	lmo1694	lmo1736	lmo2517	lmo2199	lmo2424	lmo2158	lmo2711	lmo0299	lmo2558	lmo1328	lmo1601	lmo1602	lmo2386	lmo2256	lmo0938	lmo1706	lmo0895	lmo0894	lmo0893	lmo2524	lmo2526	lmo2527	lmo2391	lmo1107	lmo2258	lmo0393	lmo2586	lmo0669	lmo2748	lmo2549	lmo1122	lmo0670	lmo0722	lmo0784	lmo0783	lmo0911	lmo1000	lmo0142	lmo2803	lmo0462	lmo0869	lmo0752	lmo0771	lmo2213	lmo0711	lmo1257	lmo0761	lmo0796	lmo1935	lmo0596
+SACOL2054 (act); SACOL2147 *1 (act)	from_aureus	lmo0407
+SACOL2137 *1 (rep)	from_aureus	lmo2493	lmo2575
+SACOL2147 *1 (act)	from_aureus	lmo2799
+SACOL2325 *1 (act)	from_aureus	lmo1568
+SACOL2389 *1 (act)	from_aureus	lmo1791	lmo2405	lmo0470	lmo0466
+SACOL2688 *1 (rep)	from_aureus	lmo0852
+S-box *1	from_aureus	lmo2419	lmo2418	lmo2417	lmo1664
+S-box *1; SACOL1272 *1 (rep)	from_aureus	lmo0594
+T-box(Ala) *1	from_aureus	lmo1504
+T-box(Asn) *1	from_aureus	lmo1519	lmo1520
+T-box(Cys) *1	from_aureus	lmo0238	lmo0239
+T-box(Ile) *1	from_aureus	lmo2019
+T-box(Leu) *1	from_aureus	lmo1660
+T-box(Met) *1	from_aureus	lmo1681	lmo1678	lmo1679	lmo1680
+T-box(Phe) *1	from_aureus	lmo1221	lmo1222
+T-box(Ser) *1	from_aureus	lmo2747
+T-box(Thr) *1	from_aureus	lmo1559
+T-box(Tyr) *1	from_aureus	lmo1598
+T-box(Val) *1	from_aureus	lmo1552
+THI-box *1	from_aureus	lmo1412	lmo0318	lmo0316	lmo0317	lmo0315
+yybP-ykoY motif *1	from_aureus	lmo0991
