@@ -47,6 +47,15 @@ while(i <= nrow(de.profile)){
   i <- i+1
 }
 
+#Calculate correlation between the sRNA and protein target: 
+i <- 1
+while(i <= nrow(de.profile)){
+  aa <- as.numeric(de.profile[i,9:13])
+  bb <- as.numeric(de.profile[as.character(de.profile$target) == as.character(de.profile[i,"sRNA"]),4:8])
+  de.profile[i,"corr_sRNA_prot"] <- cor(aa, bb, method = "pearson")
+  i <- i+1
+}
+
 write.table(de.profile, "results/sRNAs/sRNA_target_finaltable.csv", row.names = FALSE, quote = FALSE, sep="\t")
 
 
